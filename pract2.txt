@@ -3,5 +3,6 @@ this is my second commit through R studio
 Sreekanth Editing the Likith text file.
 Sreekanth/likith editing from R/not studio
 testing for conflict
+testing for merge conflict editing different lines
 
 
